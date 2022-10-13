@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: "APIENTRY": ponowna definicja makra
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\include\GLFW\glfw3.h(123): message : zobacz poprzednią definicję „APIENTRY”
+C:\Users\suski\source\repos\glfw\glfw\Source\main.cpp(61,17): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\suski\source\repos\glfw\glfw\Source\main.cpp(71,66): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\suski\source\repos\glfw\glfw\Source\main.cpp(71,59): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\suski\source\repos\glfw\glfw\Source\main.cpp(147,70): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+C:\Users\suski\source\repos\glfw\glfw\Source\main.cpp(147,63): warning C4244: "argument": konwersja z "int" do "GLfloat", możliwa utrata danych
+LINK : warning LNK4098: domyślna biblioteka „LIBCMT” powoduje konflikt z innymi bibliotekami; użyj opcji /NODEFAULTLIB:biblioteka
+  Trwa generowanie kodu
+  1 of 569 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+glew32s.lib(glew.obj) : warning LNK4099: nie znaleziono pliku PDB „vc120.pdb” z elementem „glew32s.lib(glew.obj)” lub w pozycji „C:\Users\suski\source\repos\glfw\Release\vc120.pdb”; obiekt zostanie skonsolidowany bez informacji debugowania
+  glfw.vcxproj -> C:\Users\suski\source\repos\glfw\Release\glfw.exe
